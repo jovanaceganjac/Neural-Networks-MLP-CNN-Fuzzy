@@ -1,6 +1,6 @@
 # Neuralne mreže – Projektni zadatak
 
-Projektni zadatak iz predmeta **Neuralne mreže** na Elektrotehničkom fakultetu Univerziteta u Beogradu.
+Projektni zadatak iz predmeta **Neuralne mreže**.
 
 **Autori:** Jovana Čeganjac (2022/0423), Milica Eva Stojanović (2022/0361)
 
